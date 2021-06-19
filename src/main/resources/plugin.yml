@@ -1,0 +1,5 @@
+name: TransBedWars
+version: ${project.version}
+main: me.transmc.transbedwars.TransBedWars
+api-version: 1.16
+depend: [ TransCore ]
